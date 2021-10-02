@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+pikachu2.0+WA+Bot+repo;Created+by+Aj+Cutzz;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Aj+Cutzz;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -14,7 +14,7 @@
 <a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu2.0?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -57,7 +57,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click pikachu2.0 logo to Join Support Group 2👇
+Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -70,7 +70,7 @@ Click pikachu2.0 logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu2.0.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
      </div>
 <br>
 <br >
@@ -90,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu2.0
-$ cd pikachu2.0
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -100,8 +100,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu2.0
-$ cd pikachu2.0
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,8 +114,8 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, pikachu2.0 executives do not accept responsibility.
-By establishing the pikachu2.0, you are deemed to have accepted these responsibilities.
+Absolutely, Pikachu executives do not accept responsibility.
+By establishing the Pikachu, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
